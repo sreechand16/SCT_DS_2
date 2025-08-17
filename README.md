@@ -1,5 +1,6 @@
 # SCT_DS_2
 🛳️ Data Science Internship – Task 2 (Titanic Dataset EDA)
+
 📝 Task Description
 As part of my internship at SkillCraft Technology, I was assigned the following task:
 Perform data cleaning and exploratory data analysis (EDA) on a dataset of choice. I chose the Titanic dataset from Kaggle.
